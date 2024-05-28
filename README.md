@@ -56,3 +56,9 @@ Some common RL algorithms include:
 *   Deep Q-Networks (DQN): Uses neural networks to approximate the Q-value function.
 *   Policy Gradient Methods: Directly parameterize the policy and optimize it using gradient ascent techniques.
 *   Actor-Critic Methods: Combine value-based and policy-based approaches, where the actor updates the policy and the critic evaluates the action.
+
+
+# Important library to implement reinforcement learning:
+--------------------------------------------------------
+
+pip install torch torchvision torchaudio gym numpy matplotlib
