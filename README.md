@@ -1,3 +1,5 @@
+# https://chatgpt.com/c/425ec379-3a6d-4eb2-bfc0-bdff3db4a827
+
 Part 1: Foundations
 
 1.1 Introduction to Reinforcement Learning
